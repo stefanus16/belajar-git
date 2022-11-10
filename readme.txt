@@ -5,3 +5,4 @@ belajar git dengan semnagat bla bla bla.
 8
 9
 10
+git push
