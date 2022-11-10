@@ -1,1 +1,1 @@
-belajar git dengan semnagat
+belajar git dengan semnagat bla bla bla
